@@ -1,0 +1,133 @@
+/* text styling */
+
+.txt {
+    color: var(--black);
+}
+
+.h1 {
+    font-style: normal;
+    font-weight: 600;
+    font-size: var(--fs-h1);
+    line-height: 70px;
+}
+
+.main-title {
+    padding-top: 120px;
+}
+
+.main-title,
+.main-txt {
+    margin-bottom: 50px;
+}
+
+.txt-lg,
+.txt-exmd {
+    font-style: normal;
+    font-weight: 400;
+    font-size: var(--fs-lg);
+    line-height: 25px;
+    color: var(--black);
+}
+
+.txt-exmd {
+    font-size: var(--fs-exsm);
+    padding-bottom: 172px;
+}
+
+
+.h1-exlg {
+    font-size: var(--fs-exlg);
+    font-weight: 600;
+    line-height: 60px;
+
+}
+
+
+.h2 {
+    font-weight: 600;
+    font-size: var(--fs-h2);
+}
+
+.article-txt,
+.article-title {
+    padding-bottom: 30px;
+}
+
+.article-txt {
+    font-weight: 400;
+    font-size: var(--fs-normal);
+}
+
+.h3 {
+    font-weight: 600;
+    font-weight: bold;
+    font-size: var(--fs-h3);
+    padding-bottom: 30px;
+    padding-top: 20px;
+}
+
+.card-txt {
+    font-size: var(--fs-s);
+    font-weight: 400;
+    line-height: 25px;
+    padding-bottom: 25px;
+}
+
+.txt-center {
+    text-align: center;
+}
+
+
+.txt-content {
+    font-size: var(--fs-md);
+    font-weight: 400;
+    line-height: 40px;
+    padding-top: 63px;
+    padding-bottom: 23px;
+}
+
+.sm-txt {
+    font-size: var(--fs-exsm);
+    font-weight: 400;
+    line-height: 25px;
+    padding-bottom: 15px;
+}
+
+
+.h4 {
+    font-weight: 600;
+    font-size: var(--fs-h4);
+    max-width: 461px;
+}
+
+.txt-tools {
+    font-size: var(--fs-normal);
+    font-weight: 400;
+    line-height: 30px;
+}
+
+
+.h5 {
+    padding-top: 92px;
+    padding-bottom: 28px;
+    font-size: var(--fs-h5);
+    font-weight: 600;
+    text-transform: capitalize;
+}
+
+.txt-exsm {
+    max-width: 300px;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 15px;
+    padding-top: 52px;
+}
+
+.txt-rate-group {
+    font-size: var(--fs-exsm);
+    font-weight: 400;
+    line-height: 25px;
+    text-transform: uppercase;
+}
+
+
